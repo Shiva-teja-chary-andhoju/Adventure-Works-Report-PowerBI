@@ -10,7 +10,7 @@ This project focuses on analyzing the overall performance of "Adventure Works", 
 
 ## Tech Stack Used
 
-<img src="https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/bbdb8b23-18b2-4dea-b6b1-52ffd903085a" width="150" /> 
+<img src="https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/bbdb8b23-18b2-4dea-b6b1-52ffd903085a" width="250" /> 
 
 * PowerBI Desktop
 
