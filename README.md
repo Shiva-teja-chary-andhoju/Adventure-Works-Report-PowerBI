@@ -32,7 +32,13 @@ This project focuses on analyzing the overall performance of "Adventure Works", 
 
 ## Data Sourcing
 
-I undertook this project as part of the "Power BI Desktop" course by Maven Analytics. So you can find the dataset here 👉 [Click Here](https://mavenanalytics.io/course/microsoft-power-bi-desktop)
+I undertook this project as part of the "Power BI Desktop" course by Maven Analytics. So you can find the datasets here 👉 [Click Here](https://mavenanalytics.io/course/microsoft-power-bi-desktop)
+
+![DATA](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/81dc243e-c375-4b21-9dcf-53f14d237a0b)
+
+## Data Model
+
+![Data Model](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/47bae750-145d-4379-82ee-2c6840c6b1cc)
 
 
 ## DAX Measures
@@ -43,27 +49,30 @@ I undertook this project as part of the "Power BI Desktop" course by Maven Analy
 
 ## Data Visulisation
 
- ## 📊 Executive Dashboard
+## 📊 Executive Summary View
+* High-level KPIs for revenue, profit, orders and return rates
+* Page-level filtering by product and product category
+* Drill-through per product to product detail view
 
 ![Executive Dashboard](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/90c6a62e-b73f-4763-9cc9-fd67e62f2a58)
 
-## 🌐 Map
+## 🌐 Map View
+
+* Total orders per country
 
 ![Map](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/e15b90cb-1528-4fdc-8dc3-7b79266c9855)
 
-## 📦 Product detail
+## 📦 Product detail View
+
+* Per-product performance against order, revenue and profit targets
+* "what if" analysis via price adjustment
 
 ![Product detail](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/d5ea7b0c-5642-4159-9066-83475a15964c)
 
-## 🙎🏻‍♂️ Customer detail
+## 🙎🏻‍♂️ Customer detail View
+
+* Total customer and per-customer revenue analysis
 
 ![Customer detail](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/291555e3-7917-4b6a-a8a4-d160118ecdce)
 
-## Insights
 
-Key insights about the busniess were generated on the below aspects-
-
-* 📊 Analyzed KPIs (sales, revenue, profit, returns)
-* 🌐 Compared regional performance
-* 📦 Studied product-level trends and forecasts
-* 🙎🏻‍♂️ Identified high-value customers
