@@ -54,7 +54,8 @@ I undertook this project as part of the "Power BI Desktop" course by Maven Analy
 * Page-level filtering by product and product category
 * Drill-through per product to product detail view
 
-![Executive Dashboard](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/90c6a62e-b73f-4763-9cc9-fd67e62f2a58)
+![Executive dashboard](https://github.com/Shiva-teja-chary-andhoju/Adventure-Works-Report-PowerBI/assets/128379454/ba6b8e7b-32d5-471e-a9bd-1d8ebdb08473)
+
 
 ## 🌐 Map View
 
